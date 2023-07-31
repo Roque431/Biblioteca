@@ -9,7 +9,7 @@ public class Principal {
         
         materias_disp.put("Matemáticas", new Materia(1, "Matemáticas"));
         materias_disp.put("Ciencias", new Materia(2, "Ciencias"));
-        materias_disp.put("Historia", new Materia(3, "Historia"));
+        materias_disp.put("Historia", new Materia(3, "Estructura"));
         materias_disp.put("Literatura", new Materia(4, "Literatura"));
 
         int opcion;
